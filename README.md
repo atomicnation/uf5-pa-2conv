@@ -1,7 +1,9 @@
-# Exàmen de 2ª convocatòria SMX-AW-UF5 2020
-Edita i crea els fitxers necessàris per desenvolupar un web amb l'estructura i disposició que es mostra 
+# Exàmen de 2ª Convocatòria SMX-AW-UF5 2020
+Edita i crea els fitxers necessàris per desenvolupar un web amb l'estructura i disposició que es mostra en aquest wireframe:
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/faa48923999015.5632c5ee6348d.jpg">
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+**3p** Crea una estructura que compleix amb el format visual per a versions Desktop (amplada > 1024px), inclou
+correctament les etiquetes img, button, div, hX
 
 **Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
