@@ -9,7 +9,7 @@ correctament les etiquetes title, img, button, div, h1, h2, h3, p, ul, li, a.
 
 **5p** =+ El web s'adapta correctament al format per a iPad (768px > amplada > 375px).
 
-**6p** =+ Crea un formulari de susbscripció al newsletter al footer que respon amb un alert amn el text 
+**6p** =+ Crea un formulari de susbscripció al newsletter al footer que respon amb un alert amb el text 
 "T'has subscrit al nostre newsletter amb l'email <email@delusua.ri>".
 
 **8p** =+ El web s'adapta correctament al format per a iPhone X (375px > amplada).
