@@ -7,40 +7,14 @@ correctament les etiquetes title, img, button, div, h1, h2, h3, p, ul, li, a.
 
 **4p** =+ Crea un menú horitzontal amb una estructura acceptable per a versions Desktop.
 
-**5p** =+ Crea un formulari de susbscripció al newsletter al footer que respon amb un alert amn el text 
+**5p** =+ El web s'adapta correctament al format per a iPad (768px > amplada > 375px).
+
+**6p** =+ Crea un formulari de susbscripció al newsletter al footer que respon amb un alert amn el text 
 "T'has subscrit al nostre newsletter amb l'email <email@delusua.ri>".
 
-**6p** =+ El web s'adapta correctament al format per a iPad (768px > amplada > 375px).
+**8p** =+ El web s'adapta correctament al format per a iPhone X (375px > amplada).
 
-**7p** =+ El web s'adapta correctament al format per a iPad (375px => amplada).
+**10p** =+ Es transforma la barra de navegació en un tootgle bar per al format mòbil (375px > amplada).
 
+# ----------------------------------------------------------------- #
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-## Your Project
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website.
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-## Made by [Glitch](https://glitch.com/)
-
-\ ゜ o ゜)ノ
