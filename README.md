@@ -3,7 +3,10 @@ Edita i crea els fitxers necessàris per desenvolupar un web amb l'estructura i 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/faa48923999015.5632c5ee6348d.jpg">
 
 **3p** Crea una estructura que compleix amb el format visual per a versions Desktop (amplada > 1024px), inclou
-correctament les etiquetes img, button, div, hX
+correctament les etiquetes title, img, button, div, h1, h2, h3, p, ul, li, a.
+**4p** =+ Crea un menú horitzontal amb una estructura acceptable per a versions Desktop.
+**5p** =+ Crea un formulari de susbscripció al newsletter al footer que respon amb un alert amn el text "T'has subscrit al nostre newsletter amb l'email <email@del".
+
 
 **Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
