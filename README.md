@@ -1,4 +1,5 @@
-# Welcome to Glitch
+# Exàmen de 2ª convocatòria SMX-AW-UF5 2020
+Edita i crea els fitxers necessàris per desenvolupar un web amb l'estructura i disposició que es mostra 
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
