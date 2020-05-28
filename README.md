@@ -1,6 +1,6 @@
 # Exàmen de 2ª Convocatòria SMX-AW-UF5 2020
 Edita i crea els fitxers necessàris per desenvolupar un web amb l'estructura i disposició que es mostra en aquest wireframe:
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/faa48923999015.5632c5ee6348d.jpg">
+<img src="https://cdn.glitch.com/f5d4701b-0174-466f-9499-6b2be209e6f6%2Fwireframe-pa-2conv.jpg?v=1590661643565">
 
 # RÚBRICA D'AVALUACIÓ
 **1p** Crea una arxiu index.html amb les etiquetes bàsiques html5.
